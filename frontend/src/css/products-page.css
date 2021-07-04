@@ -1,0 +1,17 @@
+.product-info {
+    border: 1px solid grey;
+}
+
+.add-cart-icon {
+    font-size: 1.3rem;
+}
+
+.price {
+    font-weight: bold;
+}
+
+.products-grid {
+    margin-top: 2rem;
+}
+
+

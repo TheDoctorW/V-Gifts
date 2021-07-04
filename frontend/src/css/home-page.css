@@ -1,0 +1,25 @@
+#website-name {
+    position: fixed;
+    z-index: 999;
+    margin-left: 2rem;
+    color: white;
+}
+
+#register-login {
+    position: fixed;
+    z-index: 999;
+}
+
+#register-login > button {
+    width: 8rem;
+}
+
+.carousel-item > img{
+    height: 100vh;
+    filter: brightness(50%)
+}
+
+.carousel-captions > * {
+    z-index: 10;
+}
+

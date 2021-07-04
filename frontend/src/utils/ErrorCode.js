@@ -1,0 +1,10 @@
+export const INVALID_TOKEN = 460;
+export const INVALID_USERNAME = 461;
+export const INVALID_EMAIL = 462;
+export const EXISTED_USERNAME = 463;
+export const INCORRECT_USERNAME = 464;
+export const INVALID_PASSWORD = 465;
+export const NOT_ENOUGH_FUND = 466;
+export const INVALID_ID = 467;
+export const EXISTED_EMAIL = 468;
+export const NO_FILE = 469;
